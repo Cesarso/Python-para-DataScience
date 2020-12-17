@@ -1,0 +1,11 @@
+Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU;Valor m2;Tipo Agregado
+Quitinete;Copacabana;1;0;0;40;1700.0;500.0;60.0;42.5;Casa
+Casa;Jardim Botânico;2;0;1;100;7000.0;0.0;0.0;70.0;Casa
+Apartamento;Centro;1;0;0;15;800.0;390.0;20.0;53.33;Apartamento
+Apartamento;Higienópolis;1;0;0;48;800.0;230.0;0.0;16.67;Apartamento
+Apartamento;Cachambi;2;0;0;50;1300.0;301.0;17.0;26.0;Apartamento
+Casa de Condomínio;Barra da Tijuca;5;4;5;750;22000.0;0.0;0.0;29.33;Casa
+Casa de Condomínio;Ramos;2;2;0;65;1000.0;0.0;0.0;15.38;Casa
+Apartamento;Grajaú;2;1;0;70;1500.0;642.0;74.0;21.43;Apartamento
+Apartamento;Lins de Vasconcelos;3;1;1;90;1500.0;455.0;14.0;16.67;Apartamento
+Apartamento;Copacabana;1;0;1;40;2000.0;561.0;50.0;50.0;Apartamento
